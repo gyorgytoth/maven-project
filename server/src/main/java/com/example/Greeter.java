@@ -9,9 +9,7 @@ public class Greeter {
    * This is a constructor.
    */
   public Greeter() {
-
-  } 
-  
+  }
   /**
    * This is freet method.
    @return String
